@@ -1,0 +1,49 @@
+#nav-logo {
+    height: 2.5rem;
+}
+
+* {
+    font-weight: bolder;
+}
+
+.tsukimi-rounded-regular {
+    font-family: "Tsukimi Rounded", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.bg-hana {
+    background-color: #b0d9f2;
+    color: #010f1f;
+}
+
+body {
+    background-color: #b0d9f2;
+}
+
+.bg-hana-page {
+    background-color: #cce9f6;
+    color: #010f1f; 
+}
+
+
+.cls-hana-text {
+    color: #010f1f;
+}
+
+#id-lang {
+    color: #010f1f75;
+}
+
+#id-lang:hover {
+    color: #010f1f;
+    transition: 0.3s;
+}
+
+.no-margin {
+    margin-bottom: -1rem;
+}
+
+.no-margin p {
+    padding-bottom: 1rem;
+}
