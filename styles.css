@@ -35,6 +35,10 @@ body {
     color: #010f1f75;
 }
 
+#nav-logo {
+height: 40px;
+}
+
 #id-lang:hover {
     color: #010f1f;
     transition: 0.3s;
